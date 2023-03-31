@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: swagger
+
+path:
+  documents: /home/angelicaweiler/Documentos/Angelica/diretorio
+
+
